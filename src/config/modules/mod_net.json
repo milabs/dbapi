@@ -1,0 +1,10 @@
+{
+	"info" : "Generic NET module",
+	"freq" : "1m",
+	"rotate_time" : "30m",
+	"rotate_size" : "10K",
+	"local_time_limit" : "1d",
+	"local_size_limit" : "10M",
+	"remote_time_limit" : "5d",
+	"remote_size_limit" : "50M"
+}

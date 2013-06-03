@@ -1,0 +1,10 @@
+{
+	"info" : "Generic MEM module",
+	"freq" : "30s",
+	"rotate_time" : "30m",
+	"rotate_size" : "10K",
+	"local_time_limit" : "1h",
+	"local_size_limit" : "1M",
+	"remote_time_limit" : "3h",
+	"remote_size_limit" : "3M"
+}

@@ -1,0 +1,9 @@
+{
+	"account" : "dropbox",
+	"modules" : {
+		"active" : [
+			"cpu", "mem", "net"
+		]
+	},
+	"logpath" : "/tmp/lspapp"
+}

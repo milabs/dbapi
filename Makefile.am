@@ -1,0 +1,3 @@
+ACLOCAL_AM_FLAGS = -I m4
+SUBDIRS = src
+EXTRA_DIST = autogen.sh

@@ -1,0 +1,10 @@
+{
+	"info" : "Generic CPU module",
+	"freq" : "5s",
+	"rotate_time" : "30m",
+	"rotate_size" : "100K",
+	"local_time_limit" : "1h",
+	"local_size_limit" : "10M",
+	"remote_time_limit" : "2h",
+	"remote_size_limit" : "20M"
+}
